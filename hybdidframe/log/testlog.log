@@ -1,0 +1,519 @@
+2022-05-18 23:35:32,939 - hybdidframe -INFO - Testcase 1 Started
+2022-05-18 23:35:33,042 - hybdidframe -INFO - Enterd into chrome 
+2022-05-18 23:35:39,739 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-18 23:57:59,163 - hybdidframe -INFO - Testcase 1 Started
+2022-05-18 23:57:59,281 - hybdidframe -INFO - Enterd into chrome 
+2022-05-18 23:58:05,573 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 00:00:54,214 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 00:00:54,292 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 00:01:00,429 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 00:05:55,586 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 00:05:55,701 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 00:06:02,650 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 00:06:57,341 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 00:06:57,410 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 00:07:03,796 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 00:17:00,979 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 00:17:01,046 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 00:17:06,818 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 00:17:07,574 - hybdidframe -INFO - Testcase 2 Started
+2022-05-19 00:17:15,182 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-19 00:17:15,253 - hybdidframe -INFO - Testcase 3 Started
+2022-05-19 00:17:21,621 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-19 00:17:21,731 - hybdidframe -INFO - Testcase 4 Started
+2022-05-19 00:17:30,452 - hybdidframe -INFO - searching done for Beds 
+2022-05-19 00:17:30,520 - hybdidframe -INFO - Testcase 5 Started
+2022-05-19 00:17:35,423 - hybdidframe -INFO - Bookinddone 
+2022-05-19 00:17:35,450 - hybdidframe -INFO - Testcase 6Started
+2022-05-19 00:17:38,488 - hybdidframe -INFO - Testcase 7 Started
+2022-05-19 00:17:40,982 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-19 00:17:41,009 - hybdidframe -INFO - Testcase 8 Started
+2022-05-19 00:17:44,205 - hybdidframe -INFO - searching for studytables 
+2022-05-19 00:17:44,278 - hybdidframe -INFO - Testcase 9 Started
+2022-05-19 00:17:45,176 - hybdidframe -INFO -  validation of text
+2022-05-19 00:17:45,198 - hybdidframe -INFO - Testcase 10 Started
+2022-05-19 00:17:45,848 - hybdidframe -INFO - Exit from the browser
+2022-05-19 12:19:50,506 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 12:19:50,748 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 12:19:55,530 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 12:19:56,237 - hybdidframe -INFO - Testcase 2 Started
+2022-05-19 12:20:05,898 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-19 12:20:06,045 - hybdidframe -INFO - Testcase 3 Started
+2022-05-19 12:20:09,681 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-19 12:20:09,742 - hybdidframe -INFO - Testcase 4 Started
+2022-05-19 12:20:14,131 - hybdidframe -INFO - Testcase 5 Started
+2022-05-19 12:20:19,497 - hybdidframe -INFO - Bookinddone 
+2022-05-19 12:20:19,584 - hybdidframe -INFO - Testcase 6Started
+2022-05-19 12:20:22,345 - hybdidframe -INFO - Testcase 7 Started
+2022-05-19 12:20:25,396 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-19 12:20:25,477 - hybdidframe -INFO - Testcase 8 Started
+2022-05-19 12:20:30,241 - hybdidframe -INFO - searching for studytables 
+2022-05-19 12:20:30,273 - hybdidframe -INFO - Testcase 9 Started
+2022-05-19 12:20:31,312 - hybdidframe -INFO -  validation of text
+2022-05-19 12:20:31,353 - hybdidframe -INFO - Testcase 10 Started
+2022-05-19 12:20:31,995 - hybdidframe -INFO - Exit from the browser
+2022-05-19 12:22:04,382 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 12:22:04,432 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 12:22:09,368 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 12:22:09,992 - hybdidframe -INFO - Testcase 2 Started
+2022-05-19 12:22:18,759 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-19 12:22:18,849 - hybdidframe -INFO - Testcase 3 Started
+2022-05-19 12:22:24,383 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-19 12:22:24,488 - hybdidframe -INFO - Testcase 4 Started
+2022-05-19 12:22:32,585 - hybdidframe -INFO - searching done for Beds 
+2022-05-19 12:22:32,660 - hybdidframe -INFO - Testcase 5 Started
+2022-05-19 12:22:36,856 - hybdidframe -INFO - Bookinddone 
+2022-05-19 12:22:36,900 - hybdidframe -INFO - Testcase 6Started
+2022-05-19 12:22:39,473 - hybdidframe -INFO - Testcase 7 Started
+2022-05-19 12:22:42,104 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-19 12:22:42,130 - hybdidframe -INFO - Testcase 8 Started
+2022-05-19 12:22:44,918 - hybdidframe -INFO - searching for studytables 
+2022-05-19 12:22:44,990 - hybdidframe -INFO - Testcase 9 Started
+2022-05-19 12:22:45,915 - hybdidframe -INFO -  validation of text
+2022-05-19 12:22:45,950 - hybdidframe -INFO - Testcase 10 Started
+2022-05-19 12:22:46,622 - hybdidframe -INFO - Exit from the browser
+2022-05-19 14:19:22,880 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 14:19:22,936 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 14:19:29,091 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 14:19:29,784 - hybdidframe -INFO - Testcase 2 Started
+2022-05-19 14:19:35,958 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-19 14:19:36,036 - hybdidframe -INFO - Testcase 3 Started
+2022-05-19 14:19:40,557 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-19 14:19:40,591 - hybdidframe -INFO - Testcase 4 Started
+2022-05-19 14:19:51,045 - hybdidframe -INFO - searching done for Beds 
+2022-05-19 14:19:51,148 - hybdidframe -INFO - Testcase 5 Started
+2022-05-19 14:19:57,177 - hybdidframe -INFO - Bookinddone 
+2022-05-19 14:19:57,220 - hybdidframe -INFO - Testcase 6Started
+2022-05-19 14:20:00,368 - hybdidframe -INFO - Testcase 7 Started
+2022-05-19 14:20:02,608 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-19 14:20:02,689 - hybdidframe -INFO - Testcase 8 Started
+2022-05-19 14:20:05,572 - hybdidframe -INFO - searching for studytables 
+2022-05-19 14:20:05,606 - hybdidframe -INFO - Testcase 9 Started
+2022-05-19 14:20:06,551 - hybdidframe -INFO -  validation of text
+2022-05-19 14:20:06,576 - hybdidframe -INFO - Testcase 10 Started
+2022-05-19 14:20:07,322 - hybdidframe -INFO - Exit from the browser
+2022-05-19 15:21:01,653 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 15:21:01,745 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 15:21:06,577 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 15:21:07,230 - hybdidframe -INFO - Testcase 2 Started
+2022-05-19 15:21:13,395 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-19 15:21:13,501 - hybdidframe -INFO - Testcase 3 Started
+2022-05-19 15:21:14,746 - hybdidframe -INFO - Testcase 4 Started
+2022-05-19 15:21:22,146 - hybdidframe -INFO - searching done for Beds 
+2022-05-19 15:21:22,226 - hybdidframe -INFO - Testcase 5 Started
+2022-05-19 15:21:26,389 - hybdidframe -INFO - Bookinddone 
+2022-05-19 15:21:26,421 - hybdidframe -INFO - Testcase 6Started
+2022-05-19 15:21:29,756 - hybdidframe -INFO - Testcase 7 Started
+2022-05-19 15:21:32,792 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-19 15:21:32,820 - hybdidframe -INFO - Testcase 8 Started
+2022-05-19 15:21:36,038 - hybdidframe -INFO - searching for studytables 
+2022-05-19 15:21:36,125 - hybdidframe -INFO - Testcase 9 Started
+2022-05-19 15:21:37,108 - hybdidframe -INFO -  validation of text
+2022-05-19 15:21:37,133 - hybdidframe -INFO - Testcase 10 Started
+2022-05-19 15:21:37,838 - hybdidframe -INFO - Exit from the browser
+2022-05-19 15:22:21,859 - hybdidframe -INFO - Testcase 1 Started
+2022-05-19 15:22:21,926 - hybdidframe -INFO - Enterd into chrome 
+2022-05-19 15:22:27,040 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-19 15:22:27,894 - hybdidframe -INFO - Testcase 2 Started
+2022-05-19 15:22:37,395 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-19 15:22:37,450 - hybdidframe -INFO - Testcase 3 Started
+2022-05-19 15:22:43,803 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-19 15:22:43,886 - hybdidframe -INFO - Testcase 4 Started
+2022-05-19 15:22:51,881 - hybdidframe -INFO - searching done for Beds 
+2022-05-19 15:22:51,969 - hybdidframe -INFO - Testcase 5 Started
+2022-05-19 15:22:58,284 - hybdidframe -INFO - Bookinddone 
+2022-05-19 15:22:59,651 - hybdidframe -INFO - Testcase 6Started
+2022-05-19 15:23:02,487 - hybdidframe -INFO - Testcase 7 Started
+2022-05-19 15:23:04,702 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-19 15:23:04,779 - hybdidframe -INFO - Testcase 8 Started
+2022-05-19 15:23:07,702 - hybdidframe -INFO - searching for studytables 
+2022-05-19 15:23:07,762 - hybdidframe -INFO - Testcase 9 Started
+2022-05-19 15:23:08,889 - hybdidframe -INFO -  validation of text
+2022-05-19 15:23:08,910 - hybdidframe -INFO - Testcase 10 Started
+2022-05-19 15:23:09,796 - hybdidframe -INFO - Exit from the browser
+2022-05-20 10:47:13,397 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 10:47:13,933 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 10:47:19,389 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 10:47:20,845 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 10:47:51,982 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 10:47:52,737 - hybdidframe -INFO -  validation of text
+2022-05-20 10:47:52,787 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 10:47:53,532 - hybdidframe -INFO - Exit from the browser
+2022-05-20 10:51:22,473 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 10:51:22,615 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 10:51:27,561 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 10:51:28,868 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 10:52:05,511 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 10:52:05,898 - hybdidframe -INFO -  validation of text
+2022-05-20 10:52:05,958 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 10:52:06,381 - hybdidframe -INFO - Exit from the browser
+2022-05-20 10:57:22,405 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 10:57:22,475 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 10:57:27,638 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 10:57:28,825 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 10:58:04,776 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 10:58:05,167 - hybdidframe -INFO -  validation of text
+2022-05-20 10:58:05,195 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 10:58:05,583 - hybdidframe -INFO - Exit from the browser
+2022-05-20 11:00:40,930 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 11:00:41,037 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 11:00:46,118 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 11:00:47,382 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 11:01:46,170 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 11:01:46,272 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 11:01:51,505 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 11:01:52,665 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 11:02:28,546 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 11:02:28,925 - hybdidframe -INFO -  validation of text
+2022-05-20 11:02:29,013 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 11:02:29,448 - hybdidframe -INFO - Exit from the browser
+2022-05-20 11:52:31,843 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 11:52:31,970 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 11:52:36,974 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 11:52:37,792 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 11:53:09,288 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 11:53:09,771 - hybdidframe -INFO -  validation of text
+2022-05-20 11:53:09,874 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 11:53:10,305 - hybdidframe -INFO - Exit from the browser
+2022-05-20 11:54:26,547 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 11:54:26,617 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 11:54:32,745 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 11:54:33,944 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 11:55:05,611 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 11:55:06,169 - hybdidframe -INFO -  validation of text
+2022-05-20 11:55:06,251 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 11:55:06,852 - hybdidframe -INFO - Exit from the browser
+2022-05-20 11:57:28,198 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 11:57:28,855 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 11:57:34,977 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 11:57:36,752 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 11:58:09,012 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 11:58:10,624 - hybdidframe -INFO -  validation of text
+2022-05-20 11:58:10,655 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 11:58:11,131 - hybdidframe -INFO - Exit from the browser
+2022-05-20 12:00:44,870 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:00:44,921 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:00:50,039 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:00:51,073 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:01:22,605 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:01:22,950 - hybdidframe -INFO -  validation of text
+2022-05-20 12:01:22,989 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:01:23,354 - hybdidframe -INFO - Exit from the browser
+2022-05-20 12:03:12,756 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:03:12,810 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:03:17,966 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:03:18,920 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:03:50,279 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:03:50,734 - hybdidframe -INFO -  validation of text
+2022-05-20 12:03:50,820 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:03:51,258 - hybdidframe -INFO - Exit from the browser
+2022-05-20 12:08:27,460 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:08:27,590 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:08:32,431 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:08:35,075 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:08:50,307 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 12:08:50,448 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:09:21,167 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:12:28,575 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:12:28,626 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:12:33,663 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:12:34,787 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:12:43,050 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 12:12:43,238 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 12:12:48,953 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 12:12:49,054 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:13:03,985 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 12:13:04,039 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 12:13:34,768 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 12:14:06,227 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 12:14:37,830 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 12:15:09,699 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:15:41,257 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:26:05,575 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:26:05,637 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:26:12,037 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:26:13,392 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:26:21,474 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 12:26:21,572 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 12:26:31,982 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 12:26:32,067 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:26:42,343 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 12:26:42,416 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 12:27:16,621 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 12:27:25,507 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 12:27:29,374 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 12:27:29,400 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 12:27:33,819 - hybdidframe -INFO - searching for studytables 
+2022-05-20 12:27:33,894 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:27:35,533 - hybdidframe -INFO -  validation of text
+2022-05-20 12:27:35,561 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:27:36,254 - hybdidframe -INFO - Exit from the browser
+2022-05-20 12:29:06,265 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:29:06,317 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:29:11,206 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:29:12,195 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:29:20,530 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 12:29:20,635 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 12:29:26,729 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 12:29:26,840 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:29:45,376 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 12:29:45,441 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 12:30:19,473 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 12:30:26,706 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 12:30:31,550 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 12:30:31,576 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 12:30:39,321 - hybdidframe -INFO - searching for studytables 
+2022-05-20 12:30:39,391 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:30:40,841 - hybdidframe -INFO -  validation of text
+2022-05-20 12:30:40,863 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:30:41,722 - hybdidframe -INFO - Exit from the browser
+2022-05-20 12:33:43,916 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:33:43,964 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:33:48,892 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:33:50,099 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:34:10,157 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 12:34:10,253 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 12:34:24,408 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 12:34:24,499 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:34:45,127 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 12:34:45,222 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 12:35:15,746 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 12:35:36,507 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 12:35:44,123 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 12:35:44,188 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 12:35:53,474 - hybdidframe -INFO - searching for studytables 
+2022-05-20 12:35:53,650 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:35:54,479 - hybdidframe -INFO -  validation of text
+2022-05-20 12:35:54,504 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:35:55,203 - hybdidframe -INFO - Exit from the browser
+2022-05-20 12:38:15,043 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:38:15,093 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:38:20,107 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:38:20,862 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:38:26,782 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 12:38:26,869 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 12:40:37,843 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:40:37,914 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:40:43,140 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:40:44,233 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:40:50,362 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 12:40:50,438 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 12:40:51,800 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:41:08,935 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 12:41:08,993 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 12:41:09,383 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 12:41:09,790 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 12:41:10,182 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 12:41:10,558 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:41:11,045 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:55:59,223 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:55:59,330 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:56:04,413 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:56:05,687 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:56:59,458 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:56:59,511 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:57:04,426 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:57:05,225 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 12:57:13,507 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 12:57:13,642 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 12:57:20,884 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 12:57:20,993 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 12:57:36,429 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 12:57:36,564 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 12:58:09,845 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 12:58:14,660 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 12:58:17,025 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 12:58:17,097 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 12:58:20,381 - hybdidframe -INFO - searching for studytables 
+2022-05-20 12:58:20,417 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 12:58:21,271 - hybdidframe -INFO -  validation of text
+2022-05-20 12:58:21,300 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 12:58:22,124 - hybdidframe -INFO - Exit from the browser
+2022-05-20 12:59:53,148 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 12:59:53,195 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 12:59:58,237 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 12:59:59,311 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 13:00:05,410 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 13:00:05,845 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 13:00:11,505 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 13:00:11,629 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 13:00:30,338 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 13:00:30,431 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 13:01:05,642 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 13:01:09,280 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 13:01:11,402 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 13:01:11,497 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 13:01:14,556 - hybdidframe -INFO - searching for studytables 
+2022-05-20 13:01:14,600 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 13:01:15,804 - hybdidframe -INFO -  validation of text
+2022-05-20 13:01:15,827 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 13:01:16,818 - hybdidframe -INFO - Exit from the browser
+2022-05-20 13:04:05,043 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 13:04:05,104 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 13:04:09,996 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 13:04:10,823 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 13:04:18,487 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 13:04:18,595 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 13:04:25,283 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 13:04:25,334 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 13:04:39,822 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 13:04:39,900 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 13:04:49,014 - hybdidframe -INFO - Bookinddone 
+2022-05-20 13:04:49,085 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 13:04:55,366 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 13:04:57,617 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 13:04:57,649 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 13:05:00,623 - hybdidframe -INFO - searching for studytables 
+2022-05-20 13:05:00,820 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 13:05:02,021 - hybdidframe -INFO -  validation of text
+2022-05-20 13:05:02,070 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 13:05:02,800 - hybdidframe -INFO - Exit from the browser
+2022-05-20 15:15:36,351 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 15:15:36,506 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 15:15:41,520 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 15:15:43,285 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 15:15:51,662 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 15:15:51,767 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 15:16:27,939 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 15:58:18,206 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 15:58:18,539 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 15:58:23,762 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 15:58:25,382 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 15:58:33,853 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 15:58:34,008 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 15:59:09,239 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 15:59:42,774 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 16:01:41,152 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 16:01:41,223 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 16:01:46,340 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 16:01:47,528 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 16:01:55,957 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 16:01:56,020 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 16:02:31,472 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 16:03:03,842 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 16:03:12,192 - hybdidframe -INFO - Bookinddone 
+2022-05-20 16:03:12,261 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 16:03:17,117 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 16:03:19,839 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 16:03:19,907 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 16:03:23,728 - hybdidframe -INFO - searching for studytables 
+2022-05-20 16:03:23,767 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 16:03:24,876 - hybdidframe -INFO -  validation of text
+2022-05-20 16:03:24,937 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 16:03:25,938 - hybdidframe -INFO - Exit from the browser
+2022-05-20 16:17:10,155 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 16:17:10,220 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 16:17:15,116 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 16:17:16,111 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 16:17:25,161 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 16:17:25,280 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 16:17:31,170 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 16:17:41,494 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 16:17:41,653 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 16:17:51,798 - hybdidframe -INFO - Bookinddone 
+2022-05-20 16:17:51,900 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 16:17:57,556 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 16:17:59,692 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 16:17:59,719 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 16:18:03,823 - hybdidframe -INFO - searching for studytables 
+2022-05-20 16:18:03,893 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 16:18:04,953 - hybdidframe -INFO -  validation of text
+2022-05-20 16:18:04,980 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 16:18:06,023 - hybdidframe -INFO - Exit from the browser
+2022-05-20 16:26:32,075 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 16:26:32,121 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 16:26:37,240 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 16:26:38,640 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 16:26:46,577 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 16:26:46,666 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 16:26:53,627 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 16:27:02,998 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 16:27:03,063 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 16:27:11,695 - hybdidframe -INFO - Bookinddone 
+2022-05-20 16:27:11,835 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 16:27:15,490 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 16:27:17,743 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 16:27:17,841 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 16:27:21,029 - hybdidframe -INFO - searching for studytables 
+2022-05-20 16:27:21,062 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 16:27:21,841 - hybdidframe -INFO -  validation of text
+2022-05-20 16:27:21,871 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 16:27:22,952 - hybdidframe -INFO - Exit from the browser
+2022-05-20 16:29:43,367 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 16:29:43,411 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 16:29:48,279 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 16:29:49,164 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 16:29:56,933 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 16:29:57,012 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 16:30:05,512 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 16:30:05,595 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 16:30:21,824 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 16:30:22,020 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 16:30:30,883 - hybdidframe -INFO - Bookinddone 
+2022-05-20 16:30:30,940 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 16:30:34,701 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 16:30:37,357 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 16:30:37,408 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 16:30:40,936 - hybdidframe -INFO - searching for studytables 
+2022-05-20 16:30:40,967 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 16:30:42,324 - hybdidframe -INFO -  validation of text
+2022-05-20 16:30:42,357 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 16:30:43,063 - hybdidframe -INFO - Exit from the browser
+2022-05-20 16:37:20,148 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 16:37:20,195 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 16:37:25,140 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 16:37:26,422 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 16:37:34,279 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 16:37:34,404 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 16:37:42,147 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 16:37:45,887 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 16:37:52,329 - hybdidframe -INFO - Bookinddone 
+2022-05-20 16:37:52,390 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 16:37:57,749 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 16:38:00,080 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 16:38:00,105 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 16:38:02,863 - hybdidframe -INFO - searching for studytables 
+2022-05-20 16:38:02,953 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 16:38:03,948 - hybdidframe -INFO -  validation of text
+2022-05-20 16:38:03,973 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 16:38:04,973 - hybdidframe -INFO - Exit from the browser
+2022-05-20 16:38:57,190 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 16:38:57,237 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 16:39:02,321 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 16:39:03,240 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 16:39:12,362 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 16:39:12,429 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 16:39:22,462 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 16:39:22,614 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 16:39:36,098 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 16:39:36,235 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 16:39:43,800 - hybdidframe -INFO - Bookinddone 
+2022-05-20 16:39:43,884 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 16:39:48,049 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 16:39:50,512 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 16:39:50,594 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 16:39:53,674 - hybdidframe -INFO - searching for studytables 
+2022-05-20 16:39:53,701 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 16:39:54,647 - hybdidframe -INFO -  validation of text
+2022-05-20 16:39:54,673 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 16:39:55,402 - hybdidframe -INFO - Exit from the browser
+2022-05-20 18:25:03,923 - hybdidframe -INFO - Testcase 1 Started
+2022-05-20 18:25:03,984 - hybdidframe -INFO - Enterd into chrome 
+2022-05-20 18:25:09,211 - hybdidframe -INFO - Testcase 1 Executed
+2022-05-20 18:25:10,127 - hybdidframe -INFO - Testcase 2 Started
+2022-05-20 18:25:21,646 - hybdidframe -INFO - signup done withurban ladders 
+2022-05-20 18:25:21,773 - hybdidframe -INFO - Testcase 3 Started
+2022-05-20 18:25:30,627 - hybdidframe -INFO - searching done for bedsheets 
+2022-05-20 18:25:30,767 - hybdidframe -INFO - Testcase 4 Started
+2022-05-20 18:25:45,944 - hybdidframe -INFO - searching done for Beds 
+2022-05-20 18:25:46,033 - hybdidframe -INFO - Testcase 5 Started
+2022-05-20 18:25:52,471 - hybdidframe -INFO - Bookinddone 
+2022-05-20 18:25:52,570 - hybdidframe -INFO - Testcase 6Started
+2022-05-20 18:25:56,571 - hybdidframe -INFO - Testcase 7 Started
+2022-05-20 18:26:00,588 - hybdidframe -INFO - clicking on tv part and get ss
+2022-05-20 18:26:00,671 - hybdidframe -INFO - Testcase 8 Started
+2022-05-20 18:26:04,421 - hybdidframe -INFO - searching for studytables 
+2022-05-20 18:26:04,464 - hybdidframe -INFO - Testcase 9 Started
+2022-05-20 18:26:05,721 - hybdidframe -INFO -  validation of text
+2022-05-20 18:26:05,773 - hybdidframe -INFO - Testcase 10 Started
+2022-05-20 18:26:06,593 - hybdidframe -INFO - Exit from the browser

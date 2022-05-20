@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[setting upreports and atrarted]]>
+    </line>
+    <line>
+      <![CDATA[setting Done]]>
+    </line>
+    <line>
+      <![CDATA[Bedsheet Done]]>
+    </line>
+    <line>
+      <![CDATA[searching Done]]>
+    </line>
+    <line>
+      <![CDATA[bedappdone Done]]>
+    </line>
+    <line>
+      <![CDATA[assertions Done]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-20T18:24:50 IST" name="Default suite" finished-at="2022-05-20T18:26:08 IST" duration-ms="78297">
+    <groups>
+    </groups>
+    <test started-at="2022-05-20T18:24:50 IST" name="Default test" finished-at="2022-05-20T18:26:08 IST" duration-ms="78297">
+      <class name="Pages.logintourbanladder">
+        <test-method is-config="true" signature="setupsuite()[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:24:49 IST" name="setupsuite" finished-at="2022-05-20T18:24:50 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[setting upreports and atrarted]]>
+            </line>
+            <line>
+              <![CDATA[setting Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupsuite -->
+        <test-method is-config="true" signature="voidsetup()[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:24:50 IST" name="voidsetup" finished-at="2022-05-20T18:25:03 IST" duration-ms="13629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- voidsetup -->
+        <test-method signature="loginApp()[pri:1, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:03 IST" name="loginApp" finished-at="2022-05-20T18:25:09 IST" duration-ms="5298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:09 IST" name="terdown" finished-at="2022-05-20T18:25:10 IST" duration-ms="897" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginApp status=SUCCESS method=logintourbanladder.loginApp()[pri:1, instance:Pages.logintourbanladder@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="signupapp()[pri:2, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:10 IST" name="signupapp" finished-at="2022-05-20T18:25:21 IST" duration-ms="11527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupapp -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:21 IST" name="terdown" finished-at="2022-05-20T18:25:21 IST" duration-ms="111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signupapp status=SUCCESS method=logintourbanladder.signupapp()[pri:2, instance:Pages.logintourbanladder@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="searchupapp()[pri:3, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:21 IST" name="searchupapp" finished-at="2022-05-20T18:25:30 IST" duration-ms="8863" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Bedsheet Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchupapp -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:30 IST" name="terdown" finished-at="2022-05-20T18:25:30 IST" duration-ms="121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchupapp status=SUCCESS method=logintourbanladder.searchupapp()[pri:3, instance:Pages.logintourbanladder@130c12b7] output=Bedsheet Done]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="Bedapp()[pri:4, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:30 IST" name="Bedapp" finished-at="2022-05-20T18:25:45 IST" duration-ms="15182" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[searching Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Bedapp -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:45 IST" name="terdown" finished-at="2022-05-20T18:25:46 IST" duration-ms="72" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Bedapp status=SUCCESS method=logintourbanladder.Bedapp()[pri:4, instance:Pages.logintourbanladder@130c12b7] output=searching Done]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="Bedappcart()[pri:5, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:46 IST" name="Bedappcart" finished-at="2022-05-20T18:25:52 IST" duration-ms="6443" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[bedappdone Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Bedappcart -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:52 IST" name="terdown" finished-at="2022-05-20T18:25:52 IST" duration-ms="89" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Bedappcart status=SUCCESS method=logintourbanladder.Bedappcart()[pri:5, instance:Pages.logintourbanladder@130c12b7] output=bedappdone Done]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="assertionaa()[pri:6, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:52 IST" name="assertionaa" finished-at="2022-05-20T18:25:56 IST" duration-ms="3958" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[assertions Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- assertionaa -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:56 IST" name="terdown" finished-at="2022-05-20T18:25:56 IST" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=assertionaa status=SUCCESS method=logintourbanladder.assertionaa()[pri:6, instance:Pages.logintourbanladder@130c12b7] output=assertions Done]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="tvappcart()[pri:7, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:25:56 IST" name="tvappcart" finished-at="2022-05-20T18:26:00 IST" duration-ms="4024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tvappcart -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:00 IST" name="terdown" finished-at="2022-05-20T18:26:00 IST" duration-ms="72" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tvappcart status=SUCCESS method=logintourbanladder.tvappcart()[pri:7, instance:Pages.logintourbanladder@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="studyapp()[pri:8, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:00 IST" name="studyapp" finished-at="2022-05-20T18:26:04 IST" duration-ms="3758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studyapp -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:04 IST" name="terdown" finished-at="2022-05-20T18:26:04 IST" duration-ms="36" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=studyapp status=SUCCESS method=logintourbanladder.studyapp()[pri:8, instance:Pages.logintourbanladder@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="aboutapp()[pri:9, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:04 IST" name="aboutapp" finished-at="2022-05-20T18:26:05 IST" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutapp -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:05 IST" name="terdown" finished-at="2022-05-20T18:26:05 IST" duration-ms="47" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=aboutapp status=SUCCESS method=logintourbanladder.aboutapp()[pri:9, instance:Pages.logintourbanladder@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method signature="infoapp()[pri:10, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:05 IST" name="infoapp" finished-at="2022-05-20T18:26:06 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infoapp -->
+        <test-method is-config="true" signature="terdown(org.testng.ITestResult)[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:06 IST" name="terdown" finished-at="2022-05-20T18:26:06 IST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=infoapp status=SUCCESS method=logintourbanladder.infoapp()[pri:10, instance:Pages.logintourbanladder@130c12b7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terdown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Pages.logintourbanladder@130c12b7]" started-at="2022-05-20T18:26:06 IST" name="teardown" finished-at="2022-05-20T18:26:08 IST" duration-ms="1888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Pages.logintourbanladder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
